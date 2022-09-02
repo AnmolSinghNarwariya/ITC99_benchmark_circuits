@@ -10,7 +10,8 @@ b04	|Compute min and max
 b05	|Elaborate the contents of a memory
 b06	|Interrupt handler
 b07	|Count points on a straight line
-b08	|Find inclusions in sequences of numbers
+b08	|Find inclusions in sequences of numbers![itc992](https://user-images.githubusercontent.com/26295521/188130861-62beb6e8-c300-460d-a058-0255354f80e6.png)
+
 b09	|Serial to serial converter
 b10	|Voting system
 b11	|Scramble string with variable cipher
@@ -25,3 +26,5 @@ b19	|Two copies of b14 and two of b17
 b20	|A copy of b14 and a modified version of b14
 b21	|Two copies of b14
 b22	|A copy of b14 and two modified versions of b14
+![itc99](https://user-images.githubusercontent.com/26295521/188130706-46b9bdcf-f9eb-4d93-94a2-c2a4eafa8888.png)
+![itc992](https://user-images.githubusercontent.com/26295521/188130848-bee219a9-1f3c-48d1-9d60-aec3880bee08.png)
